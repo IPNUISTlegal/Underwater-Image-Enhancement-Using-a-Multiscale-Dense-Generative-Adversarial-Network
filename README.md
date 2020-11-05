@@ -6,7 +6,7 @@ We propose a new multiscale dense generative adversarial network (GAN) for enhan
 
 Besides, we test our method on  the large-scale real-world underwater image enhancement benchmark dataset (UIEBD),  Underwater Image Quality Set (UIQS), and Underwater Color Cast Set (UCCS). Please enjoy the 890 enhanced images (~103MB) on UIEBD and the 7560 enhanced images (~154MB) on UIQS and UCCS.
 
-The entire enhanced result by the proposed method. **[Google Drive Link](https://drive.google.com/file/d/1-8jeJXxiF0v71bF0aB7mHK0gMhMYtVjt/view?usp=sharing)**
+The entire enhanced results by the proposed method. **[Google Drive Link](https://drive.google.com/file/d/1-8jeJXxiF0v71bF0aB7mHK0gMhMYtVjt/view?usp=sharing)**
 
 
 
