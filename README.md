@@ -10,7 +10,7 @@ The entire enhanced results by the proposed method. **[Google Drive Link](https:
 
 
 
-#### If you use this code and dataset, please also cite the following papers:
+#### If you use this dataset, please also cite the following papers:
 
 Li C, Guo C, Ren W, et al. An underwater image enhancement benchmark dataset and beyond[J]. IEEE Transactions on Image Processing, 2019, 29: 4376-4389.
 
